@@ -1,0 +1,34 @@
+<resources>
+    <string name="analyze">Analizar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="inProgress">En progreso...</string>
+    <string name="system">Sistema</string>
+    <string name="battery">Batería</string>
+    <string name="batteryLife">Estado de batería</string>
+    <string name="healthy">Saludable</string>
+    <string name="inactive">Inactivo</string>
+    <string name="deviceModel">Modelo</string>
+    <string name="operatingSystem">Sistema Operativo</string>
+    <string name="memory">Memoria</string>
+    <string name="processor">Procesador</string>
+    <string name="accelerometer">Acelerómetro</string>
+    <string name="gyroscope">Giroscopio</string>
+    <string name="temperature">Temperatura</string>
+    <string name="voltage">Voltage</string>
+    <string name="health">Salud</string>
+    <string name="plugged">Conectado</string>
+    <string name="status">Estado</string>
+    <string name="technology">Tecnología</string>
+    <string name="cold">Frío</string>
+    <string name="death">Muerto</string>
+    <string name="overVoltage">Sobrevoltage</string>
+    <string name="overheat">Sobrecalentado</string>
+    <string name="unknown">Desconocido</string>
+    <string name="pluggedWireless">Conectado inalámbrico</string>
+    <string name="pluggedUsb">Conectado por USB</string>
+    <string name="pluggedAc">Conectado a la corriente</string>
+    <string name="none">No conectado</string>
+    <string name="charging">Cargando</string>
+    <string name="discharging">Descargando</string>
+    <string name="full">Cargado</string>
+</resources>

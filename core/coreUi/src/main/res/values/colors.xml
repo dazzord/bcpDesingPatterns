@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mb_primary">#FF11141B</color>
+    <color name="black">#FF000000</color>
+    <color name="mb_background_light">#FF11141B</color>
+    <color name="mb_pills_background">#3B4652</color>
+</resources>
